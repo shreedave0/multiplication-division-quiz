@@ -1,0 +1,13 @@
+{
+    "name": "Multiplication and Division Quiz",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "favicon.png",
+        "type": "image/png",
+        "sizes": "569x569"
+      }
+    ]
+}
