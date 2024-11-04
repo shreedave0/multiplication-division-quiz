@@ -5,9 +5,14 @@
     "orientation": "portrait",
     "icons": [
       {
-        "src": "favicon.png",
+        "src": "favicon512.png",
         "type": "image/png",
-        "sizes": "569x569"
+        "sizes": "512x512"
+      },
+      {
+        "src": "favicon192.png",
+        "type": "image/png",
+        "sizes": "192x192"
       }
     ]
 }
