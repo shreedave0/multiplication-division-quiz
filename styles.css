@@ -86,16 +86,11 @@
 }
 
 .summ-btn {
-    font-size: 0.4rem;
+    font-size: 1.1rem;
 }
-
 
 @media(max-width: 1000px) {
     .summary-para {
         font-size: 1.5rem;
-    }
-
-    .submit-btn {
-        font-size: 1rem;
     }
 }
