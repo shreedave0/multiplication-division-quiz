@@ -85,6 +85,10 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.summ-btn {
+    font-size: 0.4rem;
+}
+
 
 @media(max-width: 1000px) {
     .summary-para {
